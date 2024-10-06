@@ -1,0 +1,15 @@
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\bin\Debug\netstandard2.0\Konwerter_m.deps.json
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\bin\Debug\netstandard2.0\Konwerter_m.dll
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\bin\Debug\netstandard2.0\Konwerter_m.pdb
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\obj\Debug\netstandard2.0\Konwerter_m.csproj.AssemblyReference.cache
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\obj\Debug\netstandard2.0\Konwerter_m.GeneratedMSBuildEditorConfig.editorconfig
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\obj\Debug\netstandard2.0\Konwerter_m.AssemblyInfoInputs.cache
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\obj\Debug\netstandard2.0\Konwerter_m.AssemblyInfo.cs
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\obj\Debug\netstandard2.0\Konwerter_m.csproj.CoreCompileInputs.cache
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\obj\Debug\netstandard2.0\XamlC.stamp
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\obj\Debug\netstandard2.0\Konwerter_m.dll
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\obj\Debug\netstandard2.0\refint\Konwerter_m.dll
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\obj\Debug\netstandard2.0\Konwerter_m.pdb
+D:\uniwer\мобилки сраные\Konwerter_m\Konwerter_m\obj\Debug\netstandard2.0\ref\Konwerter_m.dll

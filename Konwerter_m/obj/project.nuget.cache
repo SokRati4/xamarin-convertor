@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3RAwZZdPnvvfGnHzuxSes6oOji4PVUbUP2U15auUdkENl30kXz+mFOcDL/u4MBOrdjw8gerhTZE5V+RtpxtupA==",
+  "success": true,
+  "projectFilePath": "D:\\uniwer\\мобилки сраные\\Konwerter_m\\Konwerter_m\\Konwerter_m.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artyo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\artyo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\artyo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\artyo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\artyo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Konwerter_m.MainPage"
+             xmlns:trg="clr-namespace:Konwerter_m.Triggers">
+
+
+
+
+    <StackLayout>
+        <Picker Title="Wybór" SelectedIndexChanged="Picker_SelectedIndexChanged">
+            <Picker.Items>
+                <x:String>Jednostki odległości</x:String>
+                <x:String>Jednostki masy</x:String>
+                <x:String>Jednostki temperatury</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <Picker x:Name="jednostka_poczatkowa" IsVisible="False" SelectedIndexChanged="Sec_Picker_SelectedIndexChanged">
+        </Picker>
+
+        <Entry x:Name="input_text" Placeholder="Wpowadź wartość" Keyboard="Numeric" MaxLength="100" TextColor="Green" TextChanged="Entry_TextChanged" IsVisible="False">
+            <Entry.Triggers>
+                <EventTrigger Event="TextChanged">
+                    <trg:TypeValidationTrigger/>
+                </EventTrigger>
+            </Entry.Triggers>
+        </Entry>
+        <Picker x:Name="jednostka_konieczna" IsVisible="False" >
+        </Picker>
+        <Label x:Name="label"/>
+        <Label x:Name="wpr_Label"/>
+
+
+    </StackLayout>
+
+</ContentPage>
